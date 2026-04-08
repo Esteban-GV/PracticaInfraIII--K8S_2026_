@@ -2,9 +2,9 @@
 
 **Asignatura:** Infraestructura III  
 **Entorno:** Clúster Kubernetes (kubeadm) sobre VirtualBox  
-**Autor:** Esteban Guarin Valencia.
-**Repositorio base:** https://github.com/mariocr73/K8S-apps 
-**Infraestructura:** https://github.com/Esteban-GV/k8s-InfraIII
+**Autor:** Esteban Guarin Valencia.  
+**Repositorio base:** https://github.com/mariocr73/K8S-apps   
+**Infraestructura:** https://github.com/Esteban-GV/k8s-InfraIII  
 
 ---
 # Tabla de Contenidos
@@ -254,12 +254,3 @@ Durante el laboratorio se observaron varios conceptos fundamentales:
 
 Estos mecanismos son esenciales en infraestructuras modernas basadas en contenedores, donde la disponibilidad, la escalabilidad y la resiliencia son aspectos críticos para el funcionamiento de los servicios.
 
----
-
-# Estructura de Entregables
-
-El laboratorio incluye los siguientes elementos:
-
-- Explicación detallada del procedimiento paso a paso.
-- Análisis técnico en cada fase.
-- Evidencia mediante capturas de pantalla del funcionamiento del clúster y de la aplicación desplegada.
