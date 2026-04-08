@@ -3,7 +3,7 @@
 **Asignatura:** Infraestructura III  
 **Entorno:** Clúster Kubernetes (kubeadm) sobre VirtualBox  
 **Autor:** Esteban Guarin Valencia.
-**Repositorio base:** https://github.com/mariocr73/K8S-apps  
+**Repositorio base:** https://github.com/mariocr73/K8S-apps 
 **Infraestructura:** https://github.com/Esteban-GV/k8s-InfraIII
 
 ---
