@@ -7,17 +7,16 @@
 **Infraestructura:** https://github.com/Esteban-GV/k8s-InfraIII
 
 ---
-
 # Tabla de Contenidos
 
-1. Descripción del entorno  
-2. Fase 1 — Preparación del entorno  
-3. Fase 2 — Revisión del repositorio  
-4. Fase 3 — Despliegue de la aplicación  
-5. Fase 4 — Exposición del servicio  
-6. Fase 5 — Escalamiento de la aplicación  
-7. Fase 6 — Prueba de resiliencia (Self-Healing)  
-8. Conclusión  
+1. [Descripción del entorno](#1-descripción-del-entorno)
+2. [Fase 1 — Preparación del entorno](#2-fase-1--preparación-del-entorno)
+3. [Fase 2 — Revisión del repositorio](#3-fase-2--revisión-del-repositorio)
+4. [Fase 3 — Despliegue de la aplicación](#4-fase-3--despliegue-de-la-aplicación)
+5. [Fase 4 — Exposición del servicio](#5-fase-4--exposición-del-servicio)
+6. [Fase 5 — Escalamiento de la aplicación](#6-fase-5--escalamiento-de-la-aplicación)
+7. [Fase 6 — Prueba de resiliencia (Self-Healing)](#7-fase-6--prueba-de-resiliencia-self-healing)
+8. [Conclusión](#8-conclusión)
 
 ---
 
